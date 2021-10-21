@@ -1,3 +1,7 @@
 #resultCeleb {
   display: none;
 }
+
+.btn {
+  display: block;
+}
