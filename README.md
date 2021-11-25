@@ -11,9 +11,6 @@ HTML, CSS, Bootstrap, Javascript/JQuery!
 * Go to top-level directory.
 * Type "open index.html" in terminal (without quotes) and hit enter.
 
-## GitHub Page
-https://mellowmorgan.github.io/javascript-counter/
-
 ## Known Bugs
 Not many options to work with.
 
