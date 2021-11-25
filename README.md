@@ -4,7 +4,7 @@ By Morgan Waites and Anna Pittman.
 Webpage with personality quiz to determine your best celebrity match.
 
 ## Technologies Used
-HTML, CSS, Bootstrap, Javascript/JQuery!
+HTML, CSS, Bootstrap, Javascript/Jquery!
 
 ## Setup Instructions
 * Clone repository.
