@@ -1,5 +1,6 @@
 # Celebrity Dating
-By Morgan Waites and Anna Pittman
+By Morgan Waites and Anna Pittman.
+
 Webpage with personality quiz to determine your best celebrity match.
 
 ## Technologies Used
